@@ -11,7 +11,7 @@ public class App {
         return word.equalsIgnoreCase(reWord);//return function that compare main word with reWord,ignore case
     }
 
-    public static void main(String[] args){//check github
+    public static void main(String[] args){
         var result = App.isPalindrome("Fuf");//input word
         System.out.println(result); // output result ture or false
     }
