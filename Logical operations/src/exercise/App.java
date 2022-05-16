@@ -13,7 +13,7 @@ public class App {
 
     public static void main(String[] args){
         var result = App.isPalindrome("Fuf");//input word
-        System.out.println(result); // output result ture or false
+        System.out.println(result); // output result true or false
     }
 
 }
